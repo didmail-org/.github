@@ -1,39 +1,24 @@
-# DIDMail
+<a href="https://didmail.org/">
+  <img src="https://raw.githubusercontent.com/didmail-org/.github/main/profile/assets/banner.svg" width="1280" alt="DIDMail — Private by key. Personal by design. Decentralized encrypted email built on ArcBlock and ARC.">
+</a>
 
-### Email built around your decentralized identity.
+<p align="center">
+  <a href="https://didmail.org/">Website</a> ·
+  <a href="https://didmail.org/#how">How it works</a> ·
+  <a href="https://didmail.org/#technology">Technology</a> ·
+  <a href="https://github.com/didmail-org/didmail-org.github.io">Website source</a>
+</p>
 
-DIDMail is building a decentralized email system using DID identities
-and end-to-end encrypted content, with clients for browsers,
-mobile devices, and desktop platforms.
+**DIDMail is building decentralized email around private-key identities and end-to-end encrypted content.** NFT envelopes and namecards bring personal expression to communication; independently operated mail nodes provide delivery and encrypted storage.
 
-## What we're building
+### For developers
 
-- **DID-based identity** — create or import a wallet to establish your identity.
-- **Encrypted communication** — encrypt message content and attachments
-  on the client.
-- **Multiple clients** — access DIDMail through a browser extension,
-  React Native app, or Flutter client.
-- **Server infrastructure** — an ARC / Cloudflare Workers backend
-  with an administration dashboard.
+ArcBlock DID · ARC / AFS / AUP · Cloudflare Workers · TypeScript · React Native · Flutter
 
-## Project components
+Explore the [message flow](https://didmail.org/#how), [technical foundations](https://didmail.org/#technology), or contribute to the [public website](https://github.com/didmail-org/didmail-org.github.io).
 
-| Component | Technology |
-| --- | --- |
-| Browser extension | Next.js · TypeScript |
-| Mobile app | React Native |
-| Cross-platform client | Flutter · Dart |
-| Server | ARC · Cloudflare Workers |
-| Protocol SDK | TypeScript |
+**In development.** The first public product source release and contribution guide are in preparation. Original code uses Apache-2.0; third-party licenses still apply. Production readiness and an independent security audit have not been established.
 
-## Development status
+---
 
-DIDMail is under active development and is being prepared for its first
-public source release.
-
-Protocol specifications, interoperability checks, and deployment
-documentation are evolving. The project is not yet recommended
-for production use.
-
-Source code and contribution guidelines will be published
-with the first public release.
+[English](https://didmail.org/?lang=en) · [中文](https://didmail.org/?lang=zh) · [日本語](https://didmail.org/?lang=ja) · [Русский](https://didmail.org/?lang=ru) · [العربية](https://didmail.org/?lang=ar)
