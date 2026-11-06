@@ -13,11 +13,11 @@
 
 ### For developers
 
-ArcBlock DID · ARC / AFS / AUP · Cloudflare Workers · TypeScript · React Native · Flutter
+ArcBlock DID · Native ARC Blocklet / AFS / AUP · TypeScript · React Native · Flutter
 
-Explore the [message flow](https://didmail.org/#how), [technical foundations](https://didmail.org/#technology), or contribute to the [public website](https://github.com/didmail-org/didmail-org.github.io).
+Start with the [project overview](https://github.com/didmail-org/overview), [protocol](https://github.com/didmail-org/protocol) and [native Server](https://github.com/didmail-org/server). The [public website](https://github.com/didmail-org/didmail-org.github.io) has a buildless contribution path.
 
-**In development.** The first public product source release and contribution guide are in preparation. Original code uses Apache-2.0; third-party licenses still apply. Production readiness and an independent security audit have not been established.
+**In development.** Protocol, project guidance and Server source are public. Client publication and distribution reviews continue. Original code uses Apache-2.0; third-party licenses still apply. Production readiness and an independent security audit have not been established.
 
 ---
 
